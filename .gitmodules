@@ -1,0 +1,3 @@
+[submodule "backEndDjango"]
+	path = backEndDjango
+	url = https://github.com/Duona/backEndDjango.git
